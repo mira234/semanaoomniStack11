@@ -1,2 +1,2 @@
-# semanaoomniStack11
+# semana OmniStack11
 cursos para node e react, react native, javaScript, css, Expo
